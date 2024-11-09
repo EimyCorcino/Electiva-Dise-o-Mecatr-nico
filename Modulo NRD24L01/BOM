@@ -1,0 +1,20 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP	#
+AE1	Antenna	~	RF_Antenna:Texas_SWRA117D_2.4GHz_Right	1		1
+C1	10n	~	Capacitor_SMD:C_0402_1005Metric	1		2
+C2	33n	~	Capacitor_SMD:C_0402_1005Metric	1		3
+C3	1n	~	Capacitor_SMD:C_0402_1005Metric	1		4
+C4,C5	22p	~	Capacitor_SMD:C_0402_1005Metric	2		5
+C6	2.2n	~	Capacitor_SMD:C_0402_1005Metric	1		6
+C7	1p5	~	Capacitor_SMD:C_0402_1005Metric	1		7
+C8	1p	~	Capacitor_SMD:C_0402_1005Metric	1		8
+C9	4.7p	~	Capacitor_SMD:C_0402_1005Metric	1		9
+C10,C11	Cx	~	Capacitor_SMD:C_0402_1005Metric	2		10
+J1	Conn_01x08_Pin	~	Connector_Hirose:Hirose_DF13-08P-1.25DSA_1x08_P1.25mm_Vertical	1		11
+L1	8n2	~	Inductor_SMD:L_0402_1005Metric	1		12
+L2	3n9	~	Inductor_SMD:L_0402_1005Metric	1		13
+L3	2n7	~	Inductor_SMD:L_0402_1005Metric	1		14
+L4	Lx	~	Inductor_SMD:L_0402_1005Metric	1		15
+R1	22k	~	Resistor_SMD:R_0402_1005Metric	1		16
+R2	10M	~	Resistor_SMD:R_0402_1005Metric	1		17
+U1	nRF24L01P	http://www.nordicsemi.com/eng/content/download/2726/34069/file/nRF24L01P_Product_Specification_1_0.pdf	Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm	1		18
+Y1	16MHz	~	Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm	1		19
